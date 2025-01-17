@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="magnesium" size="200.000000 200.000000" />
+    <ImageTarget name="carbon" size="200.000000 200.000000" />
+    <ImageTarget name="chlorine" size="200.000000 200.000000" />
+    <ImageTarget name="sodium" size="200.000000 200.000000" />
+    <ImageTarget name="nitrogen" size="200.000000 200.000000" />
+    <ImageTarget name="oxygen" size="200.000000 200.000000" />
+    <ImageTarget name="hydrogen" size="200.000000 200.000000" />
+    <ImageTarget name="whatsappimag3" size="200.000000 317.926575" />
+    <ImageTarget name="whatsappimage2025-01-02at10" size="200.000000 416.589874" />
+    <ImageTarget name="fournumber" size="200.000000 200.000000" />
+    <ImageTarget name="untitleddesign1" size="200.000000 112.500000" />
+    <ImageTarget name="add" size="200.000000 200.000000" />
+    <ImageTarget name="addsymbol" size="200.000000 200.000000" />
+    <ImageTarget name="untitleddesign" size="200.000000 112.500000" />
+    <ImageTarget name="chromium" size="200.000000 200.000000" />
+    <ImageTarget name="potassium" size="200.000000 200.000000" />
+    <ImageTarget name="uranium" size="200.000000 200.000000" />
+    <ImageTarget name="lithium" size="200.000000 200.000000" />
+    <ImageTarget name="hydro" size="200.000000 200.000000" />
+    <ImageTarget name="rectangle1" size="200.000000 205.866669" />
+    <ImageTarget name="beaker" size="250.000000 352.822571" />
+    <ImageTarget name="flasktry3" size="598.000000 685.065125" />
+    <ImageTarget name="flaskreferenceimage2" size="200.000000 198.390335" />
+    <ImageTarget name="upmlogo2" size="20.000000 9.184783" />
+    <ImageTarget name="upmlogo1" size="20.000000 20.000000" />
+  </Tracking>
+</QCARConfig>
