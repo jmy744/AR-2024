@@ -74,6 +74,9 @@ Click Build and Run to deploy the app to your device for testing.
 🔹 More Molecule Models – Expand the database to include complex organic & inorganic molecules.
 
 ✨ **Contributors**
+
 👤 Yogeswary Mohan – Lead Developer & Researcher
+
 📧 Email: yogeswarymohan051@gmail.com
+
 🔗 GitHub: https://github.com/jmy744
