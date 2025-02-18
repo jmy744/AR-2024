@@ -27,8 +27,53 @@
 3️⃣ **View in AR** – The **3D molecular structure** appears in real-time.  
 4️⃣ **Interact** – zoom,drag and get **detailed information** about the molecule.  
 
-## 🔧 Setup & Installation  
-### **Prerequisites:**  
-- **Unity 2022.3.0 Installed** ✅  
-- **Vuforia SDK for Unity** ✅  
-- **Android Device** ✅  
+### **Installation Steps:**  
+1️⃣ **Clone the Repository**  
+   First, clone the repository to your local machine using the following command:  
+   
+   git clone https://github.com/jmy744/AR_Based_Visualization_of_Atoms_and_Molecules.git
+   cd AR_Based_Visualization_of_Atoms_and_Molecules
+
+2️⃣ **Open the Project in Unity**
+
+Open Unity Hub and select Open Project.
+Navigate to the folder where the repository was cloned and select the project.
+
+3️⃣ **Install Vuforia SDK for Unity**
+
+Go to Vuforia Developer Portal: Vuforia SDK Download and download the SDK for Unity.
+Import the Vuforia SDK into Unity by selecting Assets > Import Package > Custom Package and selecting the Vuforia SDK package.
+
+4️⃣ Enable Vuforia in Unity
+
+Go to Edit > Project Settings > Player.
+In the XR Settings section, check the Vuforia Augmented Reality box to enable it in Unity.
+Make sure Vuforia is set up under Player > Other Settings for the app to work on mobile.
+
+5️⃣ **Add Vuforia License Key**
+
+Go to the Vuforia Developer Portal and create a new license key.
+Add this key in Unity under Vuforia Configuration (you can find this in the Player Settings).
+
+6️⃣ **Set up AR Camera**
+
+Replace the main camera in your scene with the AR Camera provided by Vuforia.
+Make sure the Vuforia Behaviour is attached to the AR Camera.
+
+7️⃣ **Build and Run on Android**
+
+Connect your Android device to your computer.
+In Unity, select File > Build Settings and choose Android as the platform.
+Click Build and Run to deploy the app to your device for testing.
+
+📖 **Research & Future Enhancements**
+📌 Research Focus: The project investigates how AR can enhance chemistry education. AR can assist in visualizing complex scientific concepts like molecules and atoms, increasing engagement and comprehension.
+
+🔹 AI Integration – Future versions may include AI for molecule recognition.
+🔹 Voice Assistance – Add voice-guided explanations of molecular structures.
+🔹 More Molecule Models – Expand the database to include complex organic & inorganic molecules.
+
+✨ **Contributors**
+👤 Yogeswary Mohan – Lead Developer & Researcher
+📧 Email: yogeswarymohan051@gmail.com
+🔗 GitHub: https://github.com/jmy744
