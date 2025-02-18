@@ -1,4 +1,4 @@
-# AR-Based Visualization of Atoms & Molecules 🧪🔬
+# <p align="center">AR-Based Visualization of Atoms & Molecules🧪🔬</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4a78f26-294a-424c-8c84-510aa005140f" alt="AR Molecule Visualization" width="600"/>
